@@ -7,7 +7,7 @@
   <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-00b9fe?style=flat-square&logo=ko-fi">
 </a>
 <a href="https://www.buymeacoffee.com/browniebroke">
-  <img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff">
+  <img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=000000">
 </a>
 
 ### Hi there 👋
