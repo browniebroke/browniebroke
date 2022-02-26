@@ -15,9 +15,8 @@
 - I'm a web developer from London, UK 🇬🇧
 - I work with Python :snake: and Django :unicorn:
 - I fiddle with GatsbyJS on some side projects :man_in_tuxedo:
-- Check out [my blog](https://browniebroke.com) :earth_africa: 
 
-### Recent posts:
+### Recent posts from my blog:
 
 <!--START_SECTION:feed-->
 * [Convert a Poetry package to the src layout](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;convert-existing-poetry-to-src-layout&#x2F;)
