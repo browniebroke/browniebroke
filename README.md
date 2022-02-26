@@ -16,3 +16,8 @@
 - I work with Python :snake: and Django :unicorn:
 - I fiddle with GatsbyJS on some side projects :man_in_tuxedo:
 - Check out [my blog](https://browniebroke.com) :earth_africa: 
+
+### Recent posts:
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
