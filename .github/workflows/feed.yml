@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Once a day
-    - cron: 28 13 * * *
+    - cron: 28 15 * * *
 
 jobs:
   update:
@@ -14,3 +14,4 @@ jobs:
         with:
           feed-url: https://browniebroke.com/rss.xml
           readme-section: feed
+          branch: main
