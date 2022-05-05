@@ -22,6 +22,6 @@
 * [Convert Python requirements to Poetry format](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;convert-requirements-to-pyproject&#x2F;)
 * [Migrating a project to Poetry](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrating-project-to-poetry&#x2F;)
 * [Auto-update pre-commit hooks with GitHub Actions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;gh-action-pre-commit-autoupdate&#x2F;)
-* [Setting up a Content Security Policy with Gatsby](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;setting-up-content-security-policy-gatsby&#x2F;)
+* [Making Celery work nicely with Django transactions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;making-celery-work-nicely-with-django-transactions&#x2F;)
 * [Add cache-control header to an entire S3 Bucket using Boto3](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;add-cache-control-header-entire-s3-bucket-with-boto3&#x2F;)
 <!--END_SECTION:feed-->
