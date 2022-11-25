@@ -17,8 +17,9 @@
 
 ### Hi there 👋
 
-- I'm a web developer from London, UK 🇬🇧
+- I'm a web developer from France 🇫🇷 living in London, UK 🇬🇧
 - I work with Python :snake: and Django :unicorn:
+- I maintain a few open source projetcs
 - I fiddle with GatsbyJS on some side projects :man_in_tuxedo:
 
 ### Recent posts from my blog:
