@@ -13,5 +13,10 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://browniebroke.com/rss.xml
-          readme-section: feed
+          readme-section: blog
+          branch: main
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://browniebroke.com/tils.xml
+          readme-section: tils
           branch: main
