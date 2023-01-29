@@ -15,8 +15,10 @@ jobs:
           feed-url: https://browniebroke.com/rss.xml
           readme-section: blog
           branch: main
+          empty-commits: false
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://browniebroke.com/tils.xml
           readme-section: tils
           branch: main
+          empty-commits: false
