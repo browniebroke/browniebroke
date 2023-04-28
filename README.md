@@ -25,11 +25,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
+* [Migrate my site design system to Chakra UI with ChatGPT](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrate-my-site-design-system-to-chakra-ui-with-chatgpt&#x2F;)
 * [Enabling sudo via TouchID using Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;enabling-sudo-via-touchid-using-ansible&#x2F;)
 * [Specify docs dependency groups with Poetry and Read the Docs](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;specify-docs-dependency-groups-with-poetry-and-read-the-docs&#x2F;)
 * [Convert a Poetry package to the src layout](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;convert-existing-poetry-to-src-layout&#x2F;)
 * [Convert Python requirements to Poetry format](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;convert-requirements-to-pyproject&#x2F;)
-* [Migrating a project to Poetry](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrating-project-to-poetry&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
