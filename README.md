@@ -35,9 +35,9 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [Bulk resize images with sips](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;bulk-resize-images-with-sips&#x2F;)
 * [Translated database content with Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;translated-database-content-with-django&#x2F;)
 * [Python descriptors](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;python-descriptors&#x2F;)
 * [Detecting unchanged pipx packages with Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;detecting-unchanged-pipx-packages-with-ansible&#x2F;)
 * [Provisioning my MacBook with Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;provisioning-my-mac-with-ansible&#x2F;)
-* [Sudo with TouchID on macOS](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;sudo-with-touchid-on-macos&#x2F;)
 <!--END_SECTION:tils-->
