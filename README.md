@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=browniebroke&show_icons=true">
-
 <a href="https://github.com/sponsors/browniebroke">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/browniebroke?logo=github&style=flat-square">
 </a>
@@ -45,5 +43,6 @@
 
 ### Stats
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browniebroke&theme=darcula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=browniebroke&theme=darcula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=browniebroke&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browniebroke&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=browniebroke&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
