@@ -41,3 +41,9 @@
 * [Translated database content with Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;translated-database-content-with-django&#x2F;)
 * [Python descriptors](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;python-descriptors&#x2F;)
 <!--END_SECTION:tils-->
+
+
+### Stats
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=browniebroke&theme=darcula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=browniebroke&theme=darcula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
