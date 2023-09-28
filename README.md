@@ -33,11 +33,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [Integrating django-extensions shell plus with Pycharm console](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;integrating-django-extensions-shell-plus-with-pycharm-console&#x2F;)
 * [Debugging redirect cycle error in Django tests](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;debugging-redirect-cycle-error-in-django-tests&#x2F;)
 * [Using Python&#39;s inspect module to load test data](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;using-the-python-inspect-module-to-load-test-data&#x2F;)
 * [Terraform and ECS task revisions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;terraform-and-ecs-task-revisions&#x2F;)
 * [Bulk resize images with sips](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;bulk-resize-images-with-sips&#x2F;)
-* [Translated database content with Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;translated-database-content-with-django&#x2F;)
 <!--END_SECTION:tils-->
 
 
