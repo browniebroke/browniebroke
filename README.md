@@ -33,11 +33,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [Crossed app logo in macOS notifications](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;crossed-app-logo-in-macos-notifications&#x2F;)
 * [Running Python from subprocess cross platforms](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;running-python-from-subprocess-cross-platforms&#x2F;)
 * [Integrating django-extensions shell plus with Pycharm console](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;integrating-django-extensions-shell-plus-with-pycharm-console&#x2F;)
 * [Debugging redirect cycle error in Django tests](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;debugging-redirect-cycle-error-in-django-tests&#x2F;)
 * [Using Python&#39;s inspect module to load test data](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;using-the-python-inspect-module-to-load-test-data&#x2F;)
-* [Terraform and ECS task revisions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;terraform-and-ecs-task-revisions&#x2F;)
 <!--END_SECTION:tils-->
 
 
