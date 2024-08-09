@@ -22,11 +22,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
+* [Attest build provenance for a Python package in GitHub actions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;attest-build-provenance-for-a-python-package-in-github-actions&#x2F;)
 * [Bulk updating multiple repos with all-repos](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;bulk-updating-multiple-repos-with-all-repos&#x2F;)
 * [Nested ViewSets with Django REST Framework](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;nested-viewsets-with-django-rest-framework&#x2F;)
 * [Migrate my site design system to Chakra UI with ChatGPT](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrate-my-site-design-system-to-chakra-ui-with-chatgpt&#x2F;)
 * [Enabling sudo via TouchID using Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;enabling-sudo-via-touchid-using-ansible&#x2F;)
-* [Specify docs dependency groups with Poetry and Read the Docs](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;specify-docs-dependency-groups-with-poetry-and-read-the-docs&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
