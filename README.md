@@ -22,11 +22,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
+* [Keep uv.lock file up-to-date with Dependabot updates](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;keep-uv.lock-file-up-to-date-with-dependabot-updates&#x2F;)
 * [Narrow state of a Django model using Python TypeGuard](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;narrow-state-of-a-django-model-using-python-typeguard&#x2F;)
 * [Attest build provenance for a Python package in GitHub actions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;attest-build-provenance-for-a-python-package-in-github-actions&#x2F;)
 * [Bulk updating multiple repos with all-repos](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;bulk-updating-multiple-repos-with-all-repos&#x2F;)
 * [Nested ViewSets with Django REST Framework](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;nested-viewsets-with-django-rest-framework&#x2F;)
-* [Migrate my site design system to Chakra UI with ChatGPT](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrate-my-site-design-system-to-chakra-ui-with-chatgpt&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
