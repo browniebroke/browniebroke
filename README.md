@@ -32,11 +32,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [Adding &quot;share on Bluesky&quot; to my blog](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;bluesky-action-intent-links&#x2F;)
 * [Trigger further workflows on pushes from GitHub actions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;trigger-further-workflows-on-pushes-from-github-actions&#x2F;)
 * [Opening the PyCharm registry](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;opening-the-pycharm-registry&#x2F;)
 * [Python print function keyword arguments](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;python-print-function-keyword-arguments&#x2F;)
 * [Crossed app logo in macOS notifications](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;crossed-app-logo-in-macos-notifications&#x2F;)
-* [Running Python from subprocess cross platforms](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;running-python-from-subprocess-cross-platforms&#x2F;)
 <!--END_SECTION:tils-->
 
 
