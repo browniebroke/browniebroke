@@ -32,11 +32,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [James Bennet&#39;s DjangoVer suggestion](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;james-bennet&#39;s-djangover-suggestion&#x2F;)
 * [New  argument to Django redirects](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;new-argument-to-django-redirects&#x2F;)
 * [Improve Django development experience with django-fastdev](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;improve-django-development-experience-with-django-fastdev&#x2F;)
 * [Adding &quot;share on Bluesky&quot; to my blog](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;bluesky-action-intent-links&#x2F;)
 * [Trigger further workflows on pushes from GitHub actions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;trigger-further-workflows-on-pushes-from-github-actions&#x2F;)
-* [Opening the PyCharm registry](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;opening-the-pycharm-registry&#x2F;)
 <!--END_SECTION:tils-->
 
 
