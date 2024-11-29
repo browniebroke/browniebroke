@@ -32,11 +32,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [Add button to share on Mastodon to my posts](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;add-button-to-share-on-mastodon-to-my-posts&#x2F;)
 * [Javascript console.log() object string substitution](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;javascript-console-log-object-string-substitution&#x2F;)
 * [James Bennet&#39;s DjangoVer suggestion](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;james-bennet&#39;s-djangover-suggestion&#x2F;)
 * [New  argument to Django redirects](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;new-argument-to-django-redirects&#x2F;)
 * [Improve Django development experience with django-fastdev](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;improve-django-development-experience-with-django-fastdev&#x2F;)
-* [Adding &quot;share on Bluesky&quot; to my blog](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;bluesky-action-intent-links&#x2F;)
 <!--END_SECTION:tils-->
 
 
