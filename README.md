@@ -1,3 +1,4 @@
+<span><img src="https://komarev.com/ghpvc/?username=browniebroke&color=blue" alt="View count"></span>
 <a href="https://github.com/sponsors/browniebroke">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/browniebroke?logo=github&style=flat-square">
 </a>
