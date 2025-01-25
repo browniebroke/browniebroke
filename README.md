@@ -23,11 +23,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
+* [Migrating from Chakra UI to Tailwind CSS](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrating-from-chakra-ui-to-tailwind-css&#x2F;)
 * [Testing your Python logging like a boss](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;testing-your-python-logging-like-a-boss&#x2F;)
 * [Manage deprecations with Python warnings in a Django project](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;manage-deprecations-with-python-warnings-in-a-django-project&#x2F;)
 * [Keep uv.lock file up-to-date with Dependabot updates](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;keep-uv.lock-file-up-to-date-with-dependabot-updates&#x2F;)
 * [Narrow state of a Django model using Python TypeGuard](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;narrow-state-of-a-django-model-using-python-typeguard&#x2F;)
-* [Attest build provenance for a Python package in GitHub actions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;attest-build-provenance-for-a-python-package-in-github-actions&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
