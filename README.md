@@ -23,11 +23,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
-* [Migrating from Chakra UI to Tailwind CSS](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;migrating-from-chakra-ui-to-tailwind-css&#x2F;)
-* [Testing your Python logging like a boss](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;testing-your-python-logging-like-a-boss&#x2F;)
-* [Manage deprecations with Python warnings in a Django project](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;manage-deprecations-with-python-warnings-in-a-django-project&#x2F;)
-* [Keep uv.lock file up-to-date with Dependabot updates](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;keep-uv.lock-file-up-to-date-with-dependabot-updates&#x2F;)
-* [Narrow state of a Django model using Python TypeGuard](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;narrow-state-of-a-django-model-using-python-typeguard&#x2F;)
+* [Static vs. Media files in Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2019-06-18-static-vs-media-in-django&#x2F;)
+* [Making Celery work nicely with Django transactions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2019-06-25-making-celery-work-nicely-with-django-transactions&#x2F;)
+* [Migrating a project to Poetry](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2020-10-18-migrating-project-to-poetry&#x2F;)
+* [Hello World!](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2017-11-29-hello-world&#x2F;)
+* [New year, new laptop](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2018-01-14-new-year-new-laptop&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
