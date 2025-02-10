@@ -33,11 +33,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
-* [Docker ADD vs COPY instructions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;docker-add-vs-copy-instructions&#x2F;)
-* [Add button to share on Mastodon to my posts](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;add-button-to-share-on-mastodon-to-my-posts&#x2F;)
-* [Javascript console.log() object string substitution](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;javascript-console-log-object-string-substitution&#x2F;)
-* [James Bennet&#39;s DjangoVer suggestion](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;james-bennet&#39;s-djangover-suggestion&#x2F;)
-* [New  argument to Django redirects](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;new-argument-to-django-redirects&#x2F;)
+* [Adding TILs to my site](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-01-adding-til-to-my-site&#x2F;)
+* [Sudo with TouchID on macOS](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-08-31-sudo-with-touchid-on-macos&#x2F;)
+* [Provisioning my MacBook with Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-11-17-provisioning-my-mac-with-ansible&#x2F;)
+* [Tracking down a bug with tox and git](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-03-tracking-down-bug-with-tox-and-git&#x2F;)
+* [Python descriptors](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2023-02-07-python-descriptors&#x2F;)
 <!--END_SECTION:tils-->
 
 
