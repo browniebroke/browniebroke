@@ -36,8 +36,8 @@
 * [Adding TILs to my site](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-01-adding-til-to-my-site&#x2F;)
 * [Sudo with TouchID on macOS](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-08-31-sudo-with-touchid-on-macos&#x2F;)
 * [Provisioning my MacBook with Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-11-17-provisioning-my-mac-with-ansible&#x2F;)
-* [Tracking down a bug with tox and git](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-03-tracking-down-bug-with-tox-and-git&#x2F;)
 * [Using a temporary directory for media files while running tests in Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-05-using-a-temporary-directory-for-media-files-while-running-tests-in-django&#x2F;)
+* [Translated database content with Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2023-04-20-translated-database-content-with-django&#x2F;)
 <!--END_SECTION:tils-->
 
 
