@@ -23,11 +23,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
-* [Static vs. Media files in Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2019-06-18-static-vs-media-in-django&#x2F;)
 * [Making Celery work nicely with Django transactions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2019-06-25-making-celery-work-nicely-with-django-transactions&#x2F;)
+* [Static vs. Media files in Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2019-06-18-static-vs-media-in-django&#x2F;)
 * [Migrating a project to Poetry](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2020-10-18-migrating-project-to-poetry&#x2F;)
-* [New year, new laptop](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2018-01-14-new-year-new-laptop&#x2F;)
 * [Hello World!](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2017-11-29-hello-world&#x2F;)
+* [New year, new laptop](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2018-01-14-new-year-new-laptop&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
