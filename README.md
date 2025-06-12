@@ -37,7 +37,7 @@
 * [Sudo with TouchID on macOS](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-08-31-sudo-with-touchid-on-macos&#x2F;)
 * [Provisioning my MacBook with Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-11-17-provisioning-my-mac-with-ansible&#x2F;)
 * [Tracking down a bug with tox and git](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-03-tracking-down-bug-with-tox-and-git&#x2F;)
-* [Python descriptors](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2023-02-07-python-descriptors&#x2F;)
+* [Translated database content with Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2023-04-20-translated-database-content-with-django&#x2F;)
 <!--END_SECTION:tils-->
 
 
