@@ -23,11 +23,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
-* [Static vs. Media files in Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2019-06-18-static-vs-media-in-django&#x2F;)
-* [Making Celery work nicely with Django transactions](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2019-06-25-making-celery-work-nicely-with-django-transactions&#x2F;)
-* [Migrating a project to Poetry](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2020-10-18-migrating-project-to-poetry&#x2F;)
-* [Convert a Poetry package to the src layout](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2022-01-19-convert-existing-poetry-to-src-layout&#x2F;)
-* [Hello World!](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2017-11-29-hello-world&#x2F;)
+* [Introducing django-remake-migrations](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2025-03-03-introducing-django-remake-migrations&#x2F;)
+* [Project-level shareable live templates in PyCharm (or other IntelliJ IDEs)](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2025-02-21-project-level-shareable-live-templates-in-pycharm&#x2F;)
+* [Migrating from Chakra UI to Tailwind CSS](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2025-01-24-migrating-from-chakra-ui-to-tailwind-css&#x2F;)
+* [Testing your Python logging like a boss](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2024-12-13-testing-your-python-logging-like-a-boss&#x2F;)
+* [Manage deprecations with Python warnings in a Django project](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2024-11-22-manage-deprecations-with-python-warnings-in-a-django-project&#x2F;)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
