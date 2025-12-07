@@ -33,11 +33,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
-* [Adding TILs to my site](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-05-01-adding-til-to-my-site&#x2F;)
-* [Provisioning my MacBook with Ansible](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-11-17-provisioning-my-mac-with-ansible&#x2F;)
-* [Sudo with TouchID on macOS](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2022-08-31-sudo-with-touchid-on-macos&#x2F;)
-* [Translated database content with Django](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2023-04-20-translated-database-content-with-django&#x2F;)
-* [Python descriptors](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2023-02-07-python-descriptors&#x2F;)
+* [Using uv.lock file in tox](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-12-05-using-uvlock-file-in-tox&#x2F;)
+* [Detecting a repeated sequence in a string](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-12-03-detecting-a-repeated-sequence-in-a-string&#x2F;)
+* [HTML meta tag: fediverse:creator](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-02-22-html-meta-tag-fediversecreator&#x2F;)
+* [Docker ADD vs COPY instructions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2024-12-02-docker-add-vs-copy-instructions&#x2F;)
+* [Add button to share on Mastodon to my posts](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2024-11-29-add-button-to-share-on-mastodon-to-my-posts&#x2F;)
 <!--END_SECTION:tils-->
 
 
