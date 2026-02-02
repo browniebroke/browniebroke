@@ -33,11 +33,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
+* [Configuring automatic generation of GitHub releases](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2026-02-02-configuring-automatic-generation-of-github-releases&#x2F;)
 * [Using uv.lock file in tox](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-12-05-using-uvlock-file-in-tox&#x2F;)
 * [Detecting a repeated sequence in a string](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-12-03-detecting-a-repeated-sequence-in-a-string&#x2F;)
 * [HTML meta tag: fediverse:creator](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-02-22-html-meta-tag-fediversecreator&#x2F;)
 * [Docker ADD vs COPY instructions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2024-12-02-docker-add-vs-copy-instructions&#x2F;)
-* [Add button to share on Mastodon to my posts](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2024-11-29-add-button-to-share-on-mastodon-to-my-posts&#x2F;)
 <!--END_SECTION:tils-->
 
 
