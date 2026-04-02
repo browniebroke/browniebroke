@@ -33,11 +33,11 @@
 ### Recent TILs:
 
 <!--START_SECTION:tils-->
-* [Configuring automatic generation of GitHub releases](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2026-02-02-configuring-automatic-generation-of-github-releases&#x2F;)
-* [Using uv.lock file in tox](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-12-05-using-uvlock-file-in-tox&#x2F;)
-* [Detecting a repeated sequence in a string](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-12-03-detecting-a-repeated-sequence-in-a-string&#x2F;)
-* [HTML meta tag: fediverse:creator](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2025-02-22-html-meta-tag-fediversecreator&#x2F;)
-* [Docker ADD vs COPY instructions](https:&#x2F;&#x2F;browniebroke.com&#x2F;tils&#x2F;2024-12-02-docker-add-vs-copy-instructions&#x2F;)
+* [Configuring automatic generation of GitHub releases](https://browniebroke.com/tils/2026-02-02-configuring-automatic-generation-of-github-releases/)
+* [Using uv.lock file in tox](https://browniebroke.com/tils/2025-12-05-using-uvlock-file-in-tox/)
+* [Detecting a repeated sequence in a string](https://browniebroke.com/tils/2025-12-03-detecting-a-repeated-sequence-in-a-string/)
+* [HTML meta tag: fediverse:creator](https://browniebroke.com/tils/2025-02-22-html-meta-tag-fediversecreator/)
+* [Docker ADD vs COPY instructions](https://browniebroke.com/tils/2024-12-02-docker-add-vs-copy-instructions/)
 <!--END_SECTION:tils-->
 
 
