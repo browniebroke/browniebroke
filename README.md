@@ -23,11 +23,11 @@
 ### Recent posts from my blog:
 
 <!--START_SECTION:blog-->
-* [Introducing django-remake-migrations](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2025-03-03-introducing-django-remake-migrations&#x2F;)
-* [Project-level shareable live templates in PyCharm (or other IntelliJ IDEs)](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2025-02-21-project-level-shareable-live-templates-in-pycharm&#x2F;)
-* [Migrating from Chakra UI to Tailwind CSS](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2025-01-24-migrating-from-chakra-ui-to-tailwind-css&#x2F;)
-* [Testing your Python logging like a boss](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2024-12-13-testing-your-python-logging-like-a-boss&#x2F;)
-* [Manage deprecations with Python warnings in a Django project](https:&#x2F;&#x2F;browniebroke.com&#x2F;blog&#x2F;2024-11-22-manage-deprecations-with-python-warnings-in-a-django-project&#x2F;)
+* [Introducing django-remake-migrations](https://browniebroke.com/blog/2025-03-03-introducing-django-remake-migrations/)
+* [Project-level shareable live templates in PyCharm (or other IntelliJ IDEs)](https://browniebroke.com/blog/2025-02-21-project-level-shareable-live-templates-in-pycharm/)
+* [Migrating from Chakra UI to Tailwind CSS](https://browniebroke.com/blog/2025-01-24-migrating-from-chakra-ui-to-tailwind-css/)
+* [Testing your Python logging like a boss](https://browniebroke.com/blog/2024-12-13-testing-your-python-logging-like-a-boss/)
+* [Manage deprecations with Python warnings in a Django project](https://browniebroke.com/blog/2024-11-22-manage-deprecations-with-python-warnings-in-a-django-project/)
 <!--END_SECTION:blog-->
 
 ### Recent TILs:
